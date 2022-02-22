@@ -1,15 +1,26 @@
 {
   "portafolio": {
-    "projects": [
+    "aboutMe": [
       {
         "id": 1,
-        "textEs": "Doctor Aleluya",
-        "textEn": "March 1st at 2:30pm"
+        "titleEs": "Quién soy?",
+        "tittleEN": "Who I am?",
+        "textEs": "Un Ingeniero en Ciencias Informáticas especializado en el desarrollo web.",
+        "textEn": "A Computer Science Engineer specialized in web development."
       },
       {
         "id": 2,
-        "textEs": "Doctor Aleluya2",
-        "textEn": "March 1st at 2:30pm2"
+        "titleEs": "Mi Misión",
+        "tittleEN": "My mission",
+        "textEs": "Desarrollar aplicaciones web cuya complejidad constituya todo un desafío.",
+        "textEn": "Developing web applications whose complexity is a challenge."
+      },
+      {
+        "id": 3,
+        "titleEs": "Mi Visión",
+        "tittleEN": "My vision",
+        "textEs": "Ser un desarrollador web por exelencia, cuyo trabajo y proyectos cumplan con los más altos estándares de calidad de software.",
+        "textEn": "Being a web developer par excellence, whose work and projects meet the highest software quality standards."
       }
     ]
   }
