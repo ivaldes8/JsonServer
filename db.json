@@ -4,21 +4,21 @@
       {
         "id": 1,
         "tittleEs": "Quién soy?",
-        "tittleEN": "Who I am?",
+        "tittleEn": "Who I am?",
         "textEs": "Un Ingeniero en Ciencias Informáticas especializado en el desarrollo web.",
         "textEn": "A Computer Science Engineer specialized in web development."
       },
       {
         "id": 2,
         "tittleEs": "Mi Misión",
-        "tittleEN": "My mission",
+        "tittleEn": "My mission",
         "textEs": "Desarrollar aplicaciones web cuya complejidad constituya todo un desafío.",
         "textEn": "Developing web applications whose complexity is a challenge."
       },
       {
         "id": 3,
         "tittleEs": "Mi Visión",
-        "tittleEN": "My vision",
+        "tittleEn": "My vision",
         "textEs": "Ser un desarrollador web por exelencia, cuyo trabajo y proyectos cumplan con los más altos estándares de calidad de software.",
         "textEn": "Being a web developer par excellence, whose work and projects meet the highest software quality standards."
       }
