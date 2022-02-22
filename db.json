@@ -22,6 +22,50 @@
         "textEs": "Ser un desarrollador web por exelencia, cuyo trabajo y proyectos cumplan con los más altos estándares de calidad de software.",
         "textEn": "Being a web developer par excellence, whose work and projects meet the highest software quality standards."
       }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "DISAIC",
+        "url": "./assets/disaic.jpg",
+        "textEs": "Como Especialista B, hice el 100% de esta API, tanto en el frontend(Angular), como en el backend(Laravel).",
+        "textEn": "As Specialist B, I made 100% of this API, both in the frontend (Angular), and in the backend (Laravel)."
+      },
+      {
+        "id": 2,
+        "name": "Submarino Amarillo",
+        "url": "./assets/submarino.jpg",
+        "textEs": "Como desarrollador web, implementé este sitio usando Django.",
+        "textEn": "As a web developer, I implemented this site using Django."
+      },
+      {
+        "id": 3,
+        "name": "Livemax",
+        "url": "./assets/livemax.png",
+        "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con react.",
+        "textEn": "As a frontend developer i was part of the development team of this app in react."
+      },
+      {
+        "id": 4,
+        "name": "Social Media Managment",
+        "url": "./assets/smm.png",
+        "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con react.",
+        "textEn": "As a frontend developer i was part of the development team of this app in react."
+      },
+      {
+        "id": 5,
+        "name": "E-services",
+        "url": "./assets/e-services.png",
+        "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
+        "textEn": "As a frontend developer i was part of the development team of this app in Vuejs."
+      },
+      {
+        "id": 6,
+        "name": "Energy",
+        "url": "./assets/energy.png",
+        "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
+        "textEn": "As a frontend developer i was part of the development team of this app in Vuejs."
+      }
     ]
   }
 }
