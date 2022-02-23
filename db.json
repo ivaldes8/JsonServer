@@ -66,6 +66,156 @@
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
         "textEn": "As a frontend developer i was part of the development team of this app in Vuejs."
       }
-    ]
+    ],
+    "Skills": {
+      "design": [
+        {
+          "id": 1,
+          "tittle": "HTML",
+          "percent": "90%"
+        },
+        {
+          "id": 2,
+          "tittle": "CSS3",
+          "percent": "80%"
+        },
+        {
+          "id": 3,
+          "tittle": "SASS",
+          "percent": "80%"
+        },
+        {
+          "id": 4,
+          "tittle": "Adobe PhotoShop",
+          "percent": "50%"
+        },
+        {
+          "id": 5,
+          "tittle": "Adobe Illustrator",
+          "percent": "30%"
+        },
+        {
+          "id": 6,
+          "tittle": "Adobe Dimensions",
+          "percent": "30%"
+        }
+      ],
+      "languages": [
+        {
+          "id": 1,
+          "tittle": "JavaScript",
+          "percent": "95%"
+        },
+        {
+          "id": 2,
+          "tittle": "TypeScript",
+          "percent": "90%"
+        },
+        {
+          "id": 3,
+          "tittle": "PHP",
+          "percent": "80%"
+        },
+        {
+          "id": 4,
+          "tittle": "Java",
+          "percent": "60%"
+        },
+        {
+          "id": 5,
+          "tittle": "Python",
+          "percent": "60%"
+        },
+        {
+          "id": 6,
+          "tittle": "C#",
+          "percent": "40%"
+        }
+      ],
+      "frameworks": [
+        {
+          "id": 1,
+          "tittle": "Vuejs",
+          "percent": "95%"
+        },
+        {
+          "id": 2,
+          "tittle": "Angular",
+          "percent": "90%"
+        },
+        {
+          "id": 3,
+          "tittle": "React",
+          "percent": "80%"
+        },
+        {
+          "id": 4,
+          "tittle": "Laravel8",
+          "percent": "85%"
+        },
+        {
+          "id": 5,
+          "tittle": "BootStrap",
+          "percent": "90%"
+        },
+        {
+          "id": 6,
+          "tittle": "LoopBack4",
+          "percent": "80%"
+        },
+        {
+          "id": 7,
+          "tittle": "Django",
+          "percent": "50%"
+        },
+        {
+          "id": 8,
+          "tittle": "ThreeJs",
+          "percent": "40%"
+        }
+      ],
+      "oder": [
+        {
+          "id": 1,
+          "tittle": "GIT"
+        },
+        {
+          "id": 2,
+          "tittle": "PIP"
+        },
+        {
+          "id": 3,
+          "tittle": "NPM"
+        },
+        {
+          "id": 4,
+          "tittle": "Linux"
+        },
+        {
+          "id": 5,
+          "tittle": "Visual Studio Code"
+        },
+        {
+          "id": 6,
+          "tittle": "Pycharm"
+        },
+        {
+          "id": 7,
+          "tittle": "Sqlite"
+        },
+        {
+          "id": 8,
+          "tittle": "Mysql"
+        },
+        {
+          "id": 9,
+          "tittle": "Microsoft sql"
+        },
+        {
+          "id": 10,
+          "tittle": "Postgres sql"
+        }
+      ]
+    }
   }
 }
