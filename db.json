@@ -26,6 +26,7 @@
     "projects": [
       {
         "id": 1,
+        "link": "http://www.disaic.cu",
         "name": "DISAIC",
         "url": "./assets/disaic.jpg",
         "textEs": "Como Especialista B, hice el 100% de esta API, tanto en el frontend(Angular), como en el backend(Laravel).",
@@ -40,6 +41,7 @@
       },
       {
         "id": 3,
+        "link": "https://livemax.cencoapps.com",
         "name": "Livemax",
         "url": "./assets/livemax.png",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con react.",
@@ -47,6 +49,7 @@
       },
       {
         "id": 4,
+        "link": "https://cc.cencoapps.com/#/agent",
         "name": "Social Media Managment",
         "url": "./assets/smm.png",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con react.",
@@ -54,6 +57,7 @@
       },
       {
         "id": 5,
+        "link": "https://ewa-eservices.cencoapps.es",
         "name": "E-services",
         "url": "./assets/e-services.png",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
@@ -61,6 +65,7 @@
       },
       {
         "id": 6,
+        "link": "https://energy-dev.cencoapps.es",
         "name": "Energy",
         "url": "./assets/energy.png",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
