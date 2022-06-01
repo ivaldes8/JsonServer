@@ -35,7 +35,7 @@
       {
         "id": 2,
         "name": "Generador de Índice de Dependencia Exportadora para DISAIC",
-        "url": "./assets/idi.png",
+        "url": "./assets/idi.jpg",
         "link": "https://ivaldes8.github.io/IDI/",
         "textEs": "Como Especialista B, hice frontend, usando React.",
         "textEn": "As Specialist B, I made this frontend, with React"
@@ -43,14 +43,14 @@
       {
         "id": 3,
         "name": "Sistema de Contratos",
-        "url": "./assets/contrato.png",
+        "url": "./assets/contrato.jpg",
         "textEs": "Como desarrollador web, implementé este Sistema de contratos con Laravel 8.",
         "textEn": "As a web developer, I implemented this Contracts management system with Laravel 8"
       },
       {
         "id": 4,
         "name": "Goal app",
-        "url": "./assets/goalApp.png",
+        "url": "./assets/goalApp.jpg",
         "link": "https://mernappivan.herokuapp.com/",
         "textEs": "Esta aplicación es un gestor de metas que implementé para consolidar mis conocimientos en React y ExpressJs",
         "textEn": "This application is a goal manager that I implemented to consolidate my knowledge in React and ExpressJs"
@@ -58,7 +58,7 @@
       {
         "id": 5,
         "name": "Memories app",
-        "url": "./assets/memoriesApp.png",
+        "url": "./assets/memoriesApp.jpg",
         "link": "https://mernmemoriesappivan.herokuapp.com/",
         "textEs": "Esta aplicación es una red social que implementé para consolidar mis conocimientos en React y ExpressJs",
         "textEn": "This application is a social media app that I implemented to consolidate my knowledge in React and ExpressJs"
@@ -66,14 +66,14 @@
       {
         "id": 6,
         "name": "Plantel Idustrial",
-        "url": "./assets/plantelIndustrial.png",
+        "url": "./assets/plantelIndustrial.jpg",
         "textEs": "Como desarrollador web, implementé este Sistema de gestión financiera con Laravel 8.",
         "textEn": "As a web developer, I implemented this Financial management system with Laravel 8"
       },
       {
         "id": 7,
         "name": "Mi CV online",
-        "url": "./assets/CV.png",
+        "url": "./assets/CV.jpg",
         "link": "https://ivaldes8.github.io/miPortafolio/",
         "textEs": "Esta aplicación es mi CV online que implementé para consolidar mis conocimientos en Angular",
         "textEn": "This application is my CV that I implemented to consolidate my knowledge in Angular"
@@ -81,7 +81,7 @@
       {
         "id": 8,
         "name": "Quantum app",
-        "url": "./assets/quantumApp.png",
+        "url": "./assets/quantumApp.jpg",
         "link": "https://quantum-app-ivan.herokuapp.com/",
         "textEs": "Esta aplicación es un gestor de inversiones personales que implementé para consolidar mis conocimientos en React y ExpressJs",
         "textEn": "This application is a personal investment manager that I implemented to consolidate my knowledge in React and ExpressJs"
@@ -97,7 +97,7 @@
         "id": 10,
         "link": "https://livemax.cencoapps.com",
         "name": "Livemax",
-        "url": "./assets/livemax.png",
+        "url": "./assets/livemax.jpg",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con react.",
         "textEn": "As a frontend developer i was part of the development team of this app in react."
       },
@@ -105,7 +105,7 @@
         "id": 11,
         "link": "https://cc.cencoapps.com/#/agent",
         "name": "Social Media Managment",
-        "url": "./assets/smm.png",
+        "url": "./assets/smm.jpg",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con react.",
         "textEn": "As a frontend developer i was part of the development team of this app in react."
       },
@@ -113,7 +113,7 @@
         "id": 12,
         "link": "https://ewa-eservices.cencoapps.es",
         "name": "E-services",
-        "url": "./assets/e-services.png",
+        "url": "./assets/e-services.jpg",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
         "textEn": "As a frontend developer i was part of the development team of this app in Vuejs."
       },
@@ -121,7 +121,7 @@
         "id": 13,
         "link": "https://energy-dev.cencoapps.es",
         "name": "Energy",
-        "url": "./assets/energy.png",
+        "url": "./assets/energy.jpg",
         "textEs": "Como frontend developer forme parte del equipo de desarrollo de esta app hecha con Vuejs.",
         "textEn": "As a frontend developer i was part of the development team of this app in Vuejs."
       }
