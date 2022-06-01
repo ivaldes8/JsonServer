@@ -72,6 +72,14 @@
       },
       {
         "id": 7,
+        "name": "Mi CV online",
+        "url": "./assets/CV.png",
+        "link": "https://ivaldes8.github.io/miPortafolio/",
+        "textEs": "Esta aplicación es mi CV online que implementé para consolidar mis conocimientos en Angular",
+        "textEn": "This application is my CV that I implemented to consolidate my knowledge in Angular"
+      },
+      {
+        "id": 8,
         "name": "Quantum app",
         "url": "./assets/quantumApp.png",
         "link": "https://quantum-app-ivan.herokuapp.com/",
@@ -79,14 +87,14 @@
         "textEn": "This application is a personal investment manager that I implemented to consolidate my knowledge in React and ExpressJs"
       },
       {
-        "id": 8,
+        "id": 9,
         "name": "Submarino Amarillo",
         "url": "./assets/submarino.jpg",
         "textEs": "Como desarrollador web, implementé este sitio usando Django.",
         "textEn": "As a web developer, I implemented this site using Django."
       },
       {
-        "id": 9,
+        "id": 10,
         "link": "https://livemax.cencoapps.com",
         "name": "Livemax",
         "url": "./assets/livemax.png",
@@ -94,7 +102,7 @@
         "textEn": "As a frontend developer i was part of the development team of this app in react."
       },
       {
-        "id": 10,
+        "id": 11,
         "link": "https://cc.cencoapps.com/#/agent",
         "name": "Social Media Managment",
         "url": "./assets/smm.png",
@@ -102,7 +110,7 @@
         "textEn": "As a frontend developer i was part of the development team of this app in react."
       },
       {
-        "id": 11,
+        "id": 12,
         "link": "https://ewa-eservices.cencoapps.es",
         "name": "E-services",
         "url": "./assets/e-services.png",
@@ -110,7 +118,7 @@
         "textEn": "As a frontend developer i was part of the development team of this app in Vuejs."
       },
       {
-        "id": 12,
+        "id": 13,
         "link": "https://energy-dev.cencoapps.es",
         "name": "Energy",
         "url": "./assets/energy.png",
