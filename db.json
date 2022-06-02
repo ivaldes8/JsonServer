@@ -169,21 +169,6 @@
           "id": 3,
           "tittle": "PHP",
           "percent": "80%"
-        },
-        {
-          "id": 4,
-          "tittle": "Java",
-          "percent": "60%"
-        },
-        {
-          "id": 5,
-          "tittle": "Python",
-          "percent": "60%"
-        },
-        {
-          "id": 6,
-          "tittle": "C#",
-          "percent": "40%"
         }
       ],
       "frameworks": [
@@ -225,39 +210,11 @@
         },
         {
           "id": 2,
-          "tittle": "PIP"
-        },
-        {
-          "id": 3,
           "tittle": "NPM"
         },
         {
-          "id": 4,
+          "id": 3,
           "tittle": "Linux"
-        },
-        {
-          "id": 5,
-          "tittle": "Visual Studio Code"
-        },
-        {
-          "id": 6,
-          "tittle": "Pycharm"
-        },
-        {
-          "id": 7,
-          "tittle": "Sqlite"
-        },
-        {
-          "id": 8,
-          "tittle": "Mysql"
-        },
-        {
-          "id": 9,
-          "tittle": "Microsoft sql"
-        },
-        {
-          "id": 10,
-          "tittle": "Postgres sql"
         }
       ]
     }
